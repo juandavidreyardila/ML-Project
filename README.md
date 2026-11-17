@@ -1,4 +1,4 @@
-![Banner](images/dataset-cover.jpg)
+![Banner](images/banner.png)
 
 ## Predicción del rendimiento académico con base en hábitos de estudio
 
@@ -8,7 +8,7 @@
 
 ### Objetivo
 
-Desarrollar un modelo de aprendizaje automático capaz de predecir el rendimiento académico de los estudiantes a partir de sus hábitos de estudio.
+Nuestro objetivo consiste en aplicar los modelos vistos en clase para predecir el rendimiento académico de los estudiantes y analizar las métricas obtenidas por cada modelo.
 
 ### Dataset
 
