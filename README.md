@@ -4,7 +4,7 @@
 
 ### Video en YouTube
 
-[Ver video del proyecto](URL_DE_YOUTUBE)
+[Ver video del proyecto](https://youtu.be/yQihqw8iSV0)
 
 ### Objetivo
 
